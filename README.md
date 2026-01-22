@@ -15,5 +15,5 @@ La repository include i seguenti file:
 - `Documento_calcolo_fattore_rischio.pdf`  
   Documento esplicativo sul calcolo del fattore di rischio, comprensivo di inquadramento normativo, metodologico ed esempi applicativi.
 
-  - `Rapporto_sviluppo_e_test.pdf`
+- `Rapporto_sviluppo_e_test.pdf`
   Documento di supporto che descrive le fasi di sviluppo dei codici HTML/CSS,strumenti/librerie usate,e una sintesi dei test di controllo di accessibilità di base e prova su dispositivi mobili.
